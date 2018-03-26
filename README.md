@@ -13,5 +13,5 @@ Install
 - In the Add-ins dialog box that appears, click "Browse" to locate the "Matrix.xlam" the you downloaded and then clicking "OK"
 
 Use it
-The complement appears in the "Data" tab and, you can use it. 
 
+The complement appears in the "Data" tab and you got ready for use it. 
